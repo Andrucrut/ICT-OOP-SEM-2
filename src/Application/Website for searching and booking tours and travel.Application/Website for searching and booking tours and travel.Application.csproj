@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <ItemGroup>
+        <ProjectReference Include="..\Website_for_searching_and_booking_tours_and_travel.Application.Abstractions\Website_for_searching_and_booking_tours_and_travel.Application.Abstractions.csproj"/>
+        <ProjectReference Include="..\Website_for_searching_and_booking_tours_and_travel.Application.Contracts\Website_for_searching_and_booking_tours_and_travel.Application.Contracts.csproj"/>
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions"/>
+    </ItemGroup>
+
+</Project>

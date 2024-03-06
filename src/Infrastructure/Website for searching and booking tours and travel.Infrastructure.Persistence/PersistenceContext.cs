@@ -1,0 +1,5 @@
+using Website_for_searching_and_booking_tours_and_travel.Application.Abstractions.Persistence;
+
+namespace Website_for_searching_and_booking_tours_and_travel.Infrastructure.Persistence;
+
+public class PersistenceContext : IPersistenceContext { }
