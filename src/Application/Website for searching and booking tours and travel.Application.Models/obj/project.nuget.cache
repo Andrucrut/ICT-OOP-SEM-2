@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "jR8aWSeyj05zjggpFmeLp9gxV432vUytLU/kiOr01r28SncUeALcCAkFl/n5cwDkPZtQVzaMPGogkMfYsZo/tw==",
+  "success": true,
+  "projectFilePath": "/Users/andrey/Documents/GitHub/ICT-OOP-SEM-2/src/Application/Website for searching and booking tours and travel.Application.Models/Website for searching and booking tours and travel.Application.Models.csproj",
+  "expectedPackageFiles": [
+    "/Users/andrey/.nuget/packages/itmo.dev.editorconfig/1.0.2/itmo.dev.editorconfig.1.0.2.nupkg.sha512",
+    "/Users/andrey/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "/Users/andrey/.nuget/packages/stylecop.analyzers/1.2.0-beta.435/stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "/Users/andrey/.nuget/packages/stylecop.analyzers.unstable/1.2.0.435/stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512",
+    "/Users/andrey/.nuget/packages/system.linq.async/6.0.1/system.linq.async.6.0.1.nupkg.sha512",
+    "/Users/andrey/.nuget/packages/microsoft.netcore.app.ref/8.0.1/microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
+    "/Users/andrey/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
